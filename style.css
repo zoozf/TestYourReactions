@@ -1,0 +1,22 @@
+
+html{
+  margin: 0;
+  padding: 5%;
+}
+#shape{
+  width:1rem;
+  height:1rem;
+  background-color:purple;
+  position:relative;
+  border: 2px solid rgb(230, 255, 255);
+}
+
+h3 {
+  font-weight:bold;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-color:#CCFFFF;
+  text-align:center;
+}
